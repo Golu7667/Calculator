@@ -1,2 +1,2 @@
-# Calculator
-A mini calculator project using HTML, CSS, and JavaScript, allowing users to perform basic arithmetic operations. It will have a user-friendly interface, responsive design, and accurate calculations for a smooth user experience.
+# Developed
+![calculator](https://github.com/Golu7667/Calculator/assets/103061012/30e20d82-aa77-4205-a102-4cd28c5b3b52)
